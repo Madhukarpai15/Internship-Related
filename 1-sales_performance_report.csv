@@ -1,0 +1,365 @@
+Date,Product,Actual_Sales,Sales_Target
+2024-01-01,Shampoo,152,268
+2024-01-02,Shampoo,485,260
+2024-01-03,Shampoo,398,167
+2024-01-04,Shampoo,320,388
+2024-01-05,Shampoo,156,376
+2024-01-06,Shampoo,121,403
+2024-01-07,Shampoo,238,234
+2024-01-08,Shampoo,70,294
+2024-01-09,Shampoo,152,227
+2024-01-10,Shampoo,171,132
+2024-01-11,Shampoo,264,275
+2024-01-12,Shampoo,380,121
+2024-01-13,Shampoo,137,337
+2024-01-14,Shampoo,422,257
+2024-01-15,Shampoo,149,137
+2024-01-16,Shampoo,409,329
+2024-01-17,Shampoo,201,150
+2024-01-18,Shampoo,180,363
+2024-01-19,Shampoo,199,382
+2024-01-20,Shampoo,358,126
+2024-01-21,Shampoo,307,325
+2024-01-22,Shampoo,393,376
+2024-01-23,Shampoo,463,385
+2024-01-24,Shampoo,343,196
+2024-01-25,Shampoo,435,383
+2024-01-26,Shampoo,241,416
+2024-01-27,Shampoo,493,403
+2024-01-28,Shampoo,326,246
+2024-01-29,Shampoo,210,103
+2024-01-30,Shampoo,363,134
+2024-01-31,Shampoo,71,291
+2024-02-01,Shampoo,302,148
+2024-02-02,Shampoo,285,116
+2024-02-03,Shampoo,394,271
+2024-02-04,Shampoo,98,319
+2024-02-05,Shampoo,108,257
+2024-02-06,Shampoo,219,145
+2024-02-07,Shampoo,237,105
+2024-02-08,Shampoo,320,198
+2024-02-09,Shampoo,239,332
+2024-02-10,Shampoo,495,136
+2024-02-11,Shampoo,224,379
+2024-02-12,Shampoo,495,448
+2024-02-13,Shampoo,100,401
+2024-02-14,Shampoo,413,280
+2024-02-15,Shampoo,104,194
+2024-02-16,Shampoo,293,198
+2024-02-17,Shampoo,369,287
+2024-02-18,Shampoo,180,215
+2024-02-19,Shampoo,356,290
+2024-02-20,Shampoo,184,352
+2024-02-21,Shampoo,70,260
+2024-02-22,Shampoo,378,355
+2024-02-23,Shampoo,216,422
+2024-02-24,Shampoo,323,227
+2024-02-25,Shampoo,437,117
+2024-02-26,Shampoo,138,380
+2024-02-27,Shampoo,365,322
+2024-02-28,Shampoo,63,153
+2024-02-29,Shampoo,291,157
+2024-03-01,Shampoo,314,422
+2024-03-02,Shampoo,395,273
+2024-03-03,Shampoo,102,379
+2024-03-04,Shampoo,435,213
+2024-03-05,Shampoo,389,387
+2024-03-06,Shampoo,141,441
+2024-03-07,Shampoo,416,250
+2024-03-08,Shampoo,493,226
+2024-03-09,Shampoo,477,254
+2024-03-10,Shampoo,313,372
+2024-03-11,Shampoo,480,203
+2024-03-12,Shampoo,84,398
+2024-03-13,Shampoo,255,345
+2024-03-14,Shampoo,130,275
+2024-03-15,Shampoo,469,138
+2024-03-16,Shampoo,99,269
+2024-03-17,Shampoo,409,346
+2024-03-18,Shampoo,437,125
+2024-03-19,Shampoo,51,405
+2024-03-20,Shampoo,439,112
+2024-03-21,Shampoo,103,415
+2024-03-22,Shampoo,155,412
+2024-03-23,Shampoo,309,135
+2024-03-24,Shampoo,359,272
+2024-03-25,Shampoo,240,119
+2024-03-26,Shampoo,451,420
+2024-03-27,Shampoo,267,363
+2024-03-28,Shampoo,93,241
+2024-03-29,Shampoo,211,242
+2024-03-30,Shampoo,251,191
+2024-03-31,Shampoo,495,421
+2024-01-01,Conditioner,319,387
+2024-01-02,Conditioner,400,314
+2024-01-03,Conditioner,353,441
+2024-01-04,Conditioner,320,150
+2024-01-05,Conditioner,264,252
+2024-01-06,Conditioner,301,285
+2024-01-07,Conditioner,239,162
+2024-01-08,Conditioner,345,289
+2024-01-09,Conditioner,262,224
+2024-01-10,Conditioner,257,249
+2024-01-11,Conditioner,286,413
+2024-01-12,Conditioner,387,157
+2024-01-13,Conditioner,416,441
+2024-01-14,Conditioner,102,404
+2024-01-15,Conditioner,329,279
+2024-01-16,Conditioner,459,269
+2024-01-17,Conditioner,266,425
+2024-01-18,Conditioner,301,370
+2024-01-19,Conditioner,237,153
+2024-01-20,Conditioner,429,200
+2024-01-21,Conditioner,90,363
+2024-01-22,Conditioner,206,152
+2024-01-23,Conditioner,64,159
+2024-01-24,Conditioner,350,207
+2024-01-25,Conditioner,114,104
+2024-01-26,Conditioner,394,202
+2024-01-27,Conditioner,376,295
+2024-01-28,Conditioner,58,361
+2024-01-29,Conditioner,393,449
+2024-01-30,Conditioner,178,146
+2024-01-31,Conditioner,185,410
+2024-02-01,Conditioner,112,407
+2024-02-02,Conditioner,188,243
+2024-02-03,Conditioner,130,368
+2024-02-04,Conditioner,441,223
+2024-02-05,Conditioner,212,205
+2024-02-06,Conditioner,468,257
+2024-02-07,Conditioner,338,246
+2024-02-08,Conditioner,428,244
+2024-02-09,Conditioner,310,219
+2024-02-10,Conditioner,280,418
+2024-02-11,Conditioner,90,374
+2024-02-12,Conditioner,77,191
+2024-02-13,Conditioner,184,157
+2024-02-14,Conditioner,250,445
+2024-02-15,Conditioner,377,328
+2024-02-16,Conditioner,317,216
+2024-02-17,Conditioner,467,417
+2024-02-18,Conditioner,82,378
+2024-02-19,Conditioner,97,226
+2024-02-20,Conditioner,456,228
+2024-02-21,Conditioner,111,157
+2024-02-22,Conditioner,265,221
+2024-02-23,Conditioner,342,100
+2024-02-24,Conditioner,148,338
+2024-02-25,Conditioner,221,389
+2024-02-26,Conditioner,409,195
+2024-02-27,Conditioner,263,225
+2024-02-28,Conditioner,84,217
+2024-02-29,Conditioner,498,147
+2024-03-01,Conditioner,276,188
+2024-03-02,Conditioner,150,336
+2024-03-03,Conditioner,480,371
+2024-03-04,Conditioner,180,288
+2024-03-05,Conditioner,306,291
+2024-03-06,Conditioner,54,168
+2024-03-07,Conditioner,267,377
+2024-03-08,Conditioner,304,448
+2024-03-09,Conditioner,447,346
+2024-03-10,Conditioner,408,175
+2024-03-11,Conditioner,332,253
+2024-03-12,Conditioner,442,243
+2024-03-13,Conditioner,256,185
+2024-03-14,Conditioner,64,284
+2024-03-15,Conditioner,395,384
+2024-03-16,Conditioner,91,319
+2024-03-17,Conditioner,429,168
+2024-03-18,Conditioner,228,146
+2024-03-19,Conditioner,112,193
+2024-03-20,Conditioner,401,337
+2024-03-21,Conditioner,280,303
+2024-03-22,Conditioner,290,317
+2024-03-23,Conditioner,101,440
+2024-03-24,Conditioner,145,138
+2024-03-25,Conditioner,437,199
+2024-03-26,Conditioner,271,388
+2024-03-27,Conditioner,456,353
+2024-03-28,Conditioner,280,321
+2024-03-29,Conditioner,286,122
+2024-03-30,Conditioner,192,349
+2024-03-31,Conditioner,220,109
+2024-01-01,Body Wash,78,345
+2024-01-02,Body Wash,85,424
+2024-01-03,Body Wash,62,199
+2024-01-04,Body Wash,209,389
+2024-01-05,Body Wash,376,279
+2024-01-06,Body Wash,236,322
+2024-01-07,Body Wash,292,349
+2024-01-08,Body Wash,135,246
+2024-01-09,Body Wash,333,195
+2024-01-10,Body Wash,115,356
+2024-01-11,Body Wash,219,424
+2024-01-12,Body Wash,94,103
+2024-01-13,Body Wash,111,115
+2024-01-14,Body Wash,490,379
+2024-01-15,Body Wash,183,435
+2024-01-16,Body Wash,333,346
+2024-01-17,Body Wash,77,357
+2024-01-18,Body Wash,157,259
+2024-01-19,Body Wash,93,439
+2024-01-20,Body Wash,389,251
+2024-01-21,Body Wash,335,277
+2024-01-22,Body Wash,495,262
+2024-01-23,Body Wash,380,132
+2024-01-24,Body Wash,177,278
+2024-01-25,Body Wash,397,200
+2024-01-26,Body Wash,280,367
+2024-01-27,Body Wash,239,422
+2024-01-28,Body Wash,274,164
+2024-01-29,Body Wash,434,267
+2024-01-30,Body Wash,426,429
+2024-01-31,Body Wash,332,142
+2024-02-01,Body Wash,495,143
+2024-02-02,Body Wash,170,384
+2024-02-03,Body Wash,165,111
+2024-02-04,Body Wash,282,194
+2024-02-05,Body Wash,308,401
+2024-02-06,Body Wash,408,352
+2024-02-07,Body Wash,247,341
+2024-02-08,Body Wash,460,134
+2024-02-09,Body Wash,186,314
+2024-02-10,Body Wash,367,436
+2024-02-11,Body Wash,214,189
+2024-02-12,Body Wash,274,363
+2024-02-13,Body Wash,356,192
+2024-02-14,Body Wash,283,189
+2024-02-15,Body Wash,221,214
+2024-02-16,Body Wash,201,204
+2024-02-17,Body Wash,364,295
+2024-02-18,Body Wash,423,413
+2024-02-19,Body Wash,209,213
+2024-02-20,Body Wash,145,174
+2024-02-21,Body Wash,282,316
+2024-02-22,Body Wash,229,376
+2024-02-23,Body Wash,162,348
+2024-02-24,Body Wash,367,263
+2024-02-25,Body Wash,491,291
+2024-02-26,Body Wash,101,326
+2024-02-27,Body Wash,317,276
+2024-02-28,Body Wash,344,198
+2024-02-29,Body Wash,435,135
+2024-03-01,Body Wash,436,195
+2024-03-02,Body Wash,162,251
+2024-03-03,Body Wash,150,250
+2024-03-04,Body Wash,162,289
+2024-03-05,Body Wash,489,323
+2024-03-06,Body Wash,130,136
+2024-03-07,Body Wash,236,367
+2024-03-08,Body Wash,162,282
+2024-03-09,Body Wash,51,112
+2024-03-10,Body Wash,179,378
+2024-03-11,Body Wash,269,316
+2024-03-12,Body Wash,103,385
+2024-03-13,Body Wash,392,372
+2024-03-14,Body Wash,273,161
+2024-03-15,Body Wash,274,183
+2024-03-16,Body Wash,434,316
+2024-03-17,Body Wash,452,441
+2024-03-18,Body Wash,175,286
+2024-03-19,Body Wash,179,118
+2024-03-20,Body Wash,102,276
+2024-03-21,Body Wash,221,199
+2024-03-22,Body Wash,267,332
+2024-03-23,Body Wash,209,175
+2024-03-24,Body Wash,247,364
+2024-03-25,Body Wash,465,383
+2024-03-26,Body Wash,296,305
+2024-03-27,Body Wash,373,322
+2024-03-28,Body Wash,488,151
+2024-03-29,Body Wash,252,438
+2024-03-30,Body Wash,233,243
+2024-03-31,Body Wash,172,168
+2024-01-01,Laundry Detergent,450,198
+2024-01-02,Laundry Detergent,304,124
+2024-01-03,Laundry Detergent,343,152
+2024-01-04,Laundry Detergent,329,250
+2024-01-05,Laundry Detergent,374,243
+2024-01-06,Laundry Detergent,421,156
+2024-01-07,Laundry Detergent,147,138
+2024-01-08,Laundry Detergent,247,208
+2024-01-09,Laundry Detergent,444,280
+2024-01-10,Laundry Detergent,289,141
+2024-01-11,Laundry Detergent,193,285
+2024-01-12,Laundry Detergent,146,322
+2024-01-13,Laundry Detergent,250,221
+2024-01-14,Laundry Detergent,173,232
+2024-01-15,Laundry Detergent,236,262
+2024-01-16,Laundry Detergent,375,314
+2024-01-17,Laundry Detergent,398,320
+2024-01-18,Laundry Detergent,308,334
+2024-01-19,Laundry Detergent,197,430
+2024-01-20,Laundry Detergent,301,245
+2024-01-21,Laundry Detergent,492,338
+2024-01-22,Laundry Detergent,469,175
+2024-01-23,Laundry Detergent,452,108
+2024-01-24,Laundry Detergent,395,173
+2024-01-25,Laundry Detergent,196,352
+2024-01-26,Laundry Detergent,197,329
+2024-01-27,Laundry Detergent,401,106
+2024-01-28,Laundry Detergent,248,273
+2024-01-29,Laundry Detergent,357,240
+2024-01-30,Laundry Detergent,466,267
+2024-01-31,Laundry Detergent,473,269
+2024-02-01,Laundry Detergent,177,382
+2024-02-02,Laundry Detergent,88,221
+2024-02-03,Laundry Detergent,387,293
+2024-02-04,Laundry Detergent,409,104
+2024-02-05,Laundry Detergent,178,128
+2024-02-06,Laundry Detergent,316,264
+2024-02-07,Laundry Detergent,490,438
+2024-02-08,Laundry Detergent,483,235
+2024-02-09,Laundry Detergent,200,420
+2024-02-10,Laundry Detergent,464,441
+2024-02-11,Laundry Detergent,347,244
+2024-02-12,Laundry Detergent,148,426
+2024-02-13,Laundry Detergent,312,316
+2024-02-14,Laundry Detergent,301,400
+2024-02-15,Laundry Detergent,193,231
+2024-02-16,Laundry Detergent,395,391
+2024-02-17,Laundry Detergent,161,169
+2024-02-18,Laundry Detergent,109,351
+2024-02-19,Laundry Detergent,418,374
+2024-02-20,Laundry Detergent,51,281
+2024-02-21,Laundry Detergent,434,266
+2024-02-22,Laundry Detergent,353,190
+2024-02-23,Laundry Detergent,303,301
+2024-02-24,Laundry Detergent,189,445
+2024-02-25,Laundry Detergent,86,118
+2024-02-26,Laundry Detergent,209,138
+2024-02-27,Laundry Detergent,58,225
+2024-02-28,Laundry Detergent,282,272
+2024-02-29,Laundry Detergent,148,240
+2024-03-01,Laundry Detergent,196,341
+2024-03-02,Laundry Detergent,353,319
+2024-03-03,Laundry Detergent,257,225
+2024-03-04,Laundry Detergent,180,157
+2024-03-05,Laundry Detergent,453,247
+2024-03-06,Laundry Detergent,201,416
+2024-03-07,Laundry Detergent,103,100
+2024-03-08,Laundry Detergent,169,447
+2024-03-09,Laundry Detergent,210,289
+2024-03-10,Laundry Detergent,457,290
+2024-03-11,Laundry Detergent,165,411
+2024-03-12,Laundry Detergent,124,216
+2024-03-13,Laundry Detergent,162,233
+2024-03-14,Laundry Detergent,469,157
+2024-03-15,Laundry Detergent,471,143
+2024-03-16,Laundry Detergent,153,272
+2024-03-17,Laundry Detergent,389,259
+2024-03-18,Laundry Detergent,303,272
+2024-03-19,Laundry Detergent,276,416
+2024-03-20,Laundry Detergent,161,402
+2024-03-21,Laundry Detergent,148,248
+2024-03-22,Laundry Detergent,202,179
+2024-03-23,Laundry Detergent,398,312
+2024-03-24,Laundry Detergent,451,302
+2024-03-25,Laundry Detergent,433,351
+2024-03-26,Laundry Detergent,415,328
+2024-03-27,Laundry Detergent,387,263
+2024-03-28,Laundry Detergent,243,326
+2024-03-29,Laundry Detergent,359,246
+2024-03-30,Laundry Detergent,212,119
+2024-03-31,Laundry Detergent,257,146
